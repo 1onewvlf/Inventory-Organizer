@@ -1,7 +1,7 @@
 # Inventory-Organizer
 
 Asks the user how many items to store (Not exceeding 10).
-Asks the user to input the item names.
+Asks the user to input the items.
 Gives the user the option to Sort by:
 Alphabetical / Value / Weight
 
